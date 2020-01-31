@@ -1,0 +1,3 @@
+fbchat
+termcolor
+optparse 
