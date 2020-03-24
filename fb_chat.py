@@ -7,7 +7,7 @@ Author: Romeos CyberGypsy
 Email: lewiswaigwa30@gmail.com
 Telegram: https://t.me/Romeos_CyberGypsy
 Version: 1.1
-(C) Leusoft
+(C) romeos
 '''
 
 from fbchat import Client
@@ -21,9 +21,6 @@ import sys
 class Engine:
     #initializing out constructor
     def __init__(self):
-        print(colored(" _   _","blue"))
-        print(colored("|_  | )","blue","on_green"))
-        print(colored("|   |_)  CHAT APP FOR TERMINAL","blue","on_green"))
         print(" ")
         print(colored("[+] Written by Romeos CyberGypsy"))
         print(colored("Access and chat with Facebook friends at the comfort of your terminal","yellow"))
@@ -187,4 +184,9 @@ class Engine:
 if __name__ == '__main__':
     #start the facebook engine by creating an instance of class engine
     #runs the constructor by default
+    banner = '''
+    ░█▀▀░█▀▄░░░█▀█░█▀█░▀█▀
+    ░█▀▀░█▀▄░░░█▀█░█▀▀░░█░
+    ░▀░░░▀▀░░░░▀░▀░▀░░░▀▀'''
+    print(banner)
     obj = Engine()

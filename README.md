@@ -1,3 +1,6 @@
+    ░█▀▀░█▀▄░░░█▀█░█▀█░▀█▀
+    ░█▀▀░█▀▄░░░█▀█░█▀▀░░█░
+    ░▀░░░▀▀░░░░▀░▀░▀░░░▀▀
 *Written by Romeos CyberGypsy*
 This script is specifically written for those who want to access their facebook accounts at the comfort of their terminal
 
